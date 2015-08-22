@@ -1,0 +1,6 @@
+c:\users\william\documents\visual studio 2013\Projects\azsurai1\azsurai1\bin\azsurai1.dll.config
+c:\users\william\documents\visual studio 2013\Projects\azsurai1\azsurai1\bin\azsurai1.dll
+c:\users\william\documents\visual studio 2013\Projects\azsurai1\azsurai1\bin\azsurai1.pdb
+c:\users\william\documents\visual studio 2013\Projects\azsurai1\azsurai1\obj\Debug\azsurai1.csprojResolveAssemblyReference.cache
+c:\users\william\documents\visual studio 2013\Projects\azsurai1\azsurai1\obj\Debug\azsurai1.dll
+c:\users\william\documents\visual studio 2013\Projects\azsurai1\azsurai1\obj\Debug\azsurai1.pdb
