@@ -64,6 +64,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="img\cereal.jpg" />
     <Content Include="img\hospital.jpg" />
+    <Content Include="img\bumbo.jpg" />
     <Content Include="less\clean-blog.less" />
     <Content Include="less\mixins.less" />
     <Content Include="less\variables.less" />
